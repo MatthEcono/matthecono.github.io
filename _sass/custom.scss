@@ -1,155 +1,80 @@
-/* ===========================================================
-   GLOBAL MINIMALIST LIGHT THEME
-   =========================================================== */
+// _sass/custom.scss
 
-/* Override both light & dark themes from Minimal Mistakes */
-html,
-body,
-.page,
-.wrapper,
-.content,
-.masthead,
-.page__content,
-.page__inner-wrap {
-  background: #ffffff !important;
-  color: #1a1a1a !important;
-  box-shadow: none !important;
+/* ============================================
+   1. Tipografia global
+   =========================================== */
+body {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 17px;
 }
 
-/* Avoid grey strip from theme_dark file */
-html[data-theme="dark"] * {
-  background-color: #ffffff !important;
-  color: #1a1a1a !important;
+/* ============================================
+   2. Cores / links
+   =========================================== */
+a {
+  color: #1a73e8;
+
+  &:hover {
+    color: darken(#1a73e8, 10%);
+  }
 }
 
-/* Remove default background from article container */
-.post,
-.page {
-  background: #ffffff !important;
-}
-
-/* ===========================================================
-   SIDEBAR
-   =========================================================== */
-.sidebar {
-  background: #ffffff !important;
-  border-right: 1px solid #efefef !important;
-}
-
-/* Avatar clean and modern */
-.author__avatar img {
-  border-radius: 10px !important;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
-}
-
-/* Sidebar headings */
-.author__name {
-  font-size: 1.2rem;
-  font-weight: 700;
-  color: #111 !important;
-}
-
-.author__bio {
-  color: #555 !important;
-}
-
-/* Sidebar links */
-.author__urls li a {
-  color: #0066cc !important;
-}
-.author__urls li a:hover {
-  color: #003d80 !important;
-  text-decoration: underline;
-}
-
-/* ===========================================================
-   NAVIGATION BAR (TOP)
-   =========================================================== */
+/* ============================================
+   3. Navbar (masthead)
+   =========================================== */
 .masthead {
-  background: #ffffff !important;
-  border-bottom: 1px solid #efefef !important;
-  box-shadow: none !important;
+  background-color: #0b172a;
+  border-bottom: none;
+}
+
+.masthead__inner-wrap {
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
 }
 
 .masthead__menu-item a {
-  color: #333 !important;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+/* ============================================
+   4. Sidebar
+   =========================================== */
+.sidebar {
+  background-color: #f8fafc;
+  border-left: 1px solid #e2e8f0;
+}
+
+.author__avatar img {
+  border-radius: 999px;
+  border: 2px solid #1a73e8;
+}
+
+.author__content h3 {
+  font-size: 1.1rem;
   font-weight: 600;
 }
 
-.masthead__menu-item a:hover {
-  color: #0066cc !important;
-}
-
-/* ===========================================================
-   CONTENT AREA
-   =========================================================== */
-
-.page__content {
-  padding: 2rem 2.5rem !important;
-}
-
-h1, h2, h3, h4, h5 {
-  color: #111 !important;
-  font-weight: 700 !important;
-}
-
-a {
-  color: #0066cc !important;
-}
-a:hover {
-  color: #003d80 !important;
-  text-decoration: underline;
-}
-
-/* Blockquotes minimalist */
-blockquote {
-  border-left: 3px solid #eaeaea !important;
-  background: #fafafa !important;
-}
-
-/* ===========================================================
-   FOOTER
-   =========================================================== */
-.page__footer {
-  background: #ffffff !important;
-  border-top: 1px solid #efefef !important;
-  color: #666 !important;
-  box-shadow: none !important;
-}
-
-/* Footer links */
-.page__footer a {
-  color: #0066cc !important;
-}
-.page__footer a:hover {
-  color: #003d80 !important;
-}
-
-/* ===========================================================
-   TABLES CLEAN LOOK
-   =========================================================== */
-table {
-  border: 1px solid #eaeaea !important;
-  background: #ffffff !important;
-}
-
-thead {
-  background: #f9f9f9 !important;
-}
-
-/* ===========================================================
-   BUTTONS
-   =========================================================== */
-.btn,
-.btn--inverse {
-  background: #f5f5f5 !important;
-  border: 1px solid #ddd !important;
-  color: #333 !important;
+/* ============================================
+   5. Homepage / cards de posts
+   =========================================== */
+.archive__item-title {
+  font-size: 1.1rem;
   font-weight: 600;
 }
 
-.btn:hover,
-.btn--inverse:hover {
-  background: #e9e9e9 !important;
-  color: #111 !important;
+.archive__item-excerpt {
+  color: #4a5568;
+}
+
+.page__title {
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+.page__lead {
+  font-size: 1.1rem;
+  color: #4a5568;
+  max-width: 40rem;
 }
