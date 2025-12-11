@@ -4,9 +4,8 @@
 /*
  * This file controls what is imported from /_sass
  *
- * The first two lines (---) are required by Jekyll.
- * All theme imports come first.
- * Custom overrides MUST come last.
+ * Note that the files are processed in the order they are imported, so they are partly
+   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
 
 @import
@@ -40,10 +39,5 @@
 
     "vendor/font-awesome/fontawesome",
     "vendor/font-awesome/solid",
-    "vendor/font-awesome/brands";
-
-/* ==========================================
-   CUSTOM OVERRIDES MUST BE THE FINAL IMPORT
-   ========================================== */
-
-@import "custom";
+    "vendor/font-awesome/brands"
+;
