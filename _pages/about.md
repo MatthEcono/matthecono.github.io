@@ -7,7 +7,7 @@ author_profile: true
 
 ## About me
 
-I am a PhD Candidate in Economics at the **Federal University of Pernambuco (PIMES/UFPE)**, currently undertaking a **sandwich period as a Visiting Researcher at the University of York (United Kingdom)**. I hold a Master’s degree in Economics from the **Federal University of Rio Grande do Norte (UFRN)** and a Bachelor’s degree in Economics from the **Federal University of Campina Grande (UFCG)**.
+I am a PhD candidate in Economics at the **Federal University of Pernambuco (PIMES/UFPE)** and a **CNPq DTI-B fellow**. I hold a Master’s degree in Economics from the **Federal University of Rio Grande do Norte (UFRN)** and a Bachelor’s degree in Economics from the **Federal University of Campina Grande (UFCG)**.
 
 I have experience with **data analysis, georeferencing, administrative microdata, impact evaluation, and applied econometric methods**. I have also worked as a **teaching assistant and monitor in Econometrics and Regional Economics**.
 
@@ -19,21 +19,21 @@ I have **published articles in scientific journals** and **presented research at
 - Spatial Econometrics  
 - Labor Economics  
 
-📍 **Currently based in:** York, United Kingdom  
+📍 **Currently based in:** Recife, Brazil  
 📩 **Contact:** mattheusr36@gmail.com  
 
 ---
 
 ## Sobre mim
 
-Sou **doutorando em Economia pela Universidade Federal de Pernambuco (PIMES/UFPE)**, com período sanduíche como **Pesquisador Visitante na University of York (Reino Unido)**. Possuo **mestrado em Economia pela UFRN** e **graduação pela UFCG**.
+Sou **doutorando em Economia pela Universidade Federal de Pernambuco (PIMES/UFPE)** e **bolsista CNPq DTI-B**. Possuo **mestrado em Economia pela UFRN** e **graduação pela UFCG**.
 
 Tenho experiência com **análise de dados, georreferenciamento, bases administrativas, avaliação de impacto e métodos econométricos aplicados**. Atuei também como **monitor e estagiário docente** nas áreas de **Econometria e Economia Regional**.
 
 Possuo **artigos publicados em periódicos científicos** e **trabalhos apresentados em congressos nacionais**, como a **ANPEC e a SOBER**.
 
 📌 **Áreas de interesse:** Economia da Saúde | Avaliação de Políticas Públicas | Econometria Espacial | Mercado de Trabalho  
-📍 **Atualmente em:** York, Reino Unido  
+📍 **Atualmente em:** Recife, Brasil  
 📩 **Contato:** mattheusr36@gmail.com  
 
 ---

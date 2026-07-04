@@ -7,7 +7,7 @@ permalink: /
 
 Welcome!  
 
-I am **Mattheus Rodrigues da Silva**, a **PhD Student in Economics at the Federal University of Pernambuco (UFPE)** and **Visiting Researcher at the University of York (UK)**.
+I am **Mattheus Rodrigues da Silva**, a **PhD candidate in Economics at the Federal University of Pernambuco (UFPE)** and **CNPq DTI-B fellow**.
 
 My research focuses on:
 
