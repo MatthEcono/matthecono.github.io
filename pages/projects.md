@@ -21,6 +21,19 @@ cost-of-living, poverty, and real income dynamics across Brazil (Universal Grant
 
 ---
 
+## 3. INCT IATS-CARE — Institute for Assessment and Translation in Health
+**CNPq · National Institute of Science and Technology (INCT), ongoing**  
+Institute for Assessment and Translation in Health for high-relevance chronic and neglected
+diseases. It develops integrated strategies to improve the management of prevalent diseases and
+their risk factors through the production and translation of scientific evidence into real-world
+practice and policy. Work spans five axes: epidemiology and burden of disease and its
+determinants; digital health and artificial intelligence; implementation science; health
+technology, value and economics assessment for decision-making; and knowledge translation to
+multiple audiences. A continuation of the consolidated IATS INCT ([iats.com.br](https://www.iats.com.br)),
+gathering 115 researchers across 6 Brazilian and 2 international institutions.
+
+---
+
 # Research Assistance
 
 ### RCT Impact Evaluation – Fomento Rural  
