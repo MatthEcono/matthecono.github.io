@@ -34,6 +34,20 @@ gathering 115 researchers across 6 Brazilian and 2 international institutions.
 
 ---
 
+## 4. CHORUS — Community-led Responsive and Effective Urban Health Systems
+**FCDO/DFID · Research Programme Consortium (£7.9M, 6 years)**  
+International consortium on equitable urban health systems, working in two cities across four
+partner countries (Bangladesh, Ghana, Nepal, Nigeria). It is organised around four pillars:
+linking private, NGO and government providers; building cross-sector collaboration on the wider
+determinants of health (e.g. water, sanitation, transport); strengthening health systems against
+the double burden of communicable and non-communicable diseases; and identifying, reaching and
+engaging the urban poor. Projects follow a demand-led, five-phase implementation-research cycle —
+from participatory needs assessment to effectiveness and cost-effectiveness evaluation — with a
+cross-cutting emphasis on research uptake, capacity building, and gender, intersectionality and
+equity.
+
+---
+
 # Research Assistance
 
 ### RCT Impact Evaluation – Fomento Rural  
