@@ -6,18 +6,12 @@ permalink: /projects/
 
 # Research Projects
 
-## Socio-environmental determinants of Chikungunya chronification  
-**UFPE (2022–present)**  
-Analysis of long-term Chikungunya symptoms and their effects on labor market outcomes.  
-Methods include georeferenced longitudinal microdata (REPLICK, CADUNICO, RAIS),  
-estimating impacts on absenteeism, job exit, and vulnerability.
-
----
-
-## Multilateral Cost of Living Index 
-**CNPQ (2023–present)**  
-Development of a multilateral price index to measure regional inequalities in  
-cost-of-living, poverty, and real income dynamics across Brazil (Universal Grant).
+## INCT IATS-CARE — Institute for Assessment and Translation in Health
+**CNPq · INCT (2026–present)**  
+National Institute of Science and Technology on assessment and knowledge translation for  
+chronic and neglected diseases. Integrates epidemiology and burden of disease, digital health  
+and AI, implementation science, and health-technology and economic evaluation, translating  
+evidence into policy and practice ([iats.com.br](https://www.iats.com.br)).
 
 ---
 
@@ -30,12 +24,18 @@ disease, and reaching the urban poor.
 
 ---
 
-## INCT IATS-CARE — Institute for Assessment and Translation in Health
-**CNPq · INCT (2026–present)**  
-National Institute of Science and Technology on assessment and knowledge translation for  
-chronic and neglected diseases. Integrates epidemiology and burden of disease, digital health  
-and AI, implementation science, and health-technology and economic evaluation, translating  
-evidence into policy and practice ([iats.com.br](https://www.iats.com.br)).
+## Multilateral Cost of Living Index 
+**CNPQ (2023–present)**  
+Development of a multilateral price index to measure regional inequalities in  
+cost-of-living, poverty, and real income dynamics across Brazil (Universal Grant).
+
+---
+
+## Socio-environmental determinants of Chikungunya chronification  
+**UFPE (2022–present)**  
+Analysis of long-term Chikungunya symptoms and their effects on labor market outcomes.  
+Methods include georeferenced longitudinal microdata (REPLICK, CADUNICO, RAIS),  
+estimating impacts on absenteeism, job exit, and vulnerability.
 
 ---
 
