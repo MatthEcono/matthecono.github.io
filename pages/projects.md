@@ -8,19 +8,14 @@ permalink: /projects/
 
 ## INCT IATS-CARE — Institute for Assessment and Translation in Health
 **CNPq · INCT (2026–present)**  
-National Institute of Science and Technology on assessment and knowledge translation for  
-chronic and neglected diseases. Integrates epidemiology and burden of disease, digital health  
-and AI, implementation science, and health-technology and economic evaluation, translating  
-evidence into policy and practice ([iats.com.br](https://www.iats.com.br)).
+National Institute of Science and Technology on assessment and knowledge translation for  chronic and neglected diseases. 
 
 ---
 
 ## CHORUS — Community-led Responsive and Effective Urban Health Systems
 **FCDO/DFID (2025–2026)**  
 International consortium on equitable urban health systems across four countries  
-(Bangladesh, Ghana, Nepal, Nigeria). Implementation research on linking care providers,  
-cross-sector determinants of health, the double burden of communicable and non-communicable  
-disease, and reaching the urban poor.
+(Bangladesh, Ghana, Nepal, Nigeria).
 
 ---
 
