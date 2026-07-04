@@ -7,7 +7,7 @@ author_profile: true
 
 ## About me
 
-I am a PhD candidate in Economics at the **Federal University of Pernambuco (PIMES/UFPE)** and a **CNPq DTI-B fellow** and  recently completed a six-month visiting research period (sandwich PhD) at the University of York. I hold a Master’s degree in Economics from the **Federal University of Rio Grande do Norte (UFRN)** and a Bachelor’s degree in Economics from the **Federal University of Campina Grande (UFCG)**.
+I am a PhD candidate in Economics at the **Federal University of Pernambuco (PIMES/UFPE)** and a **CNPq DTI-B fellow**, having recently completed a six-month visiting research period (sandwich PhD) at the University of York. I hold a Master’s degree in Economics from the **Federal University of Rio Grande do Norte (UFRN)** and a Bachelor’s degree in Economics from the **Federal University of Campina Grande (UFCG)**.
 
 I have experience with **data analysis, georeferencing, administrative microdata, impact evaluation, and applied econometric methods**. I have also worked as a **teaching assistant and monitor in Econometrics and Regional Economics**.
 
@@ -26,7 +26,7 @@ I have **published articles in scientific journals** and **presented research at
 
 ## Sobre mim
 
-Sou **doutorando em Economia pela Universidade Federal de Pernambuco (PIMES/UFPE)** e **bolsista CNPq DTI-B**.I recently completed a six-month visiting research period (sandwich PhD) at the University of York. Possuo **mestrado em Economia pela UFRN** e **graduação pela UFCG**.
+Sou **doutorando em Economia pela Universidade Federal de Pernambuco (PIMES/UFPE)** e **bolsista CNPq DTI-B**. I recently completed a six-month visiting research period (sandwich PhD) at the University of York. Possuo **mestrado em Economia pela UFRN** e **graduação pela UFCG**.
 
 Tenho experiência com **análise de dados, georreferenciamento, bases administrativas, avaliação de impacto e métodos econométricos aplicados**. Atuei também como **monitor e estagiário docente** nas áreas de **Econometria e Economia Regional**.
 
