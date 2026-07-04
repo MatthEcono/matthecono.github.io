@@ -23,28 +23,19 @@ cost-of-living, poverty, and real income dynamics across Brazil (Universal Grant
 
 ## CHORUS — Community-led Responsive and Effective Urban Health Systems
 **FCDO/DFID (2025–2026)**  
-International consortium on equitable urban health systems, working in two cities across four
-partner countries (Bangladesh, Ghana, Nepal, Nigeria). It is organised around four pillars:
-linking private, NGO and government providers; building cross-sector collaboration on the wider
-determinants of health (e.g. water, sanitation, transport); strengthening health systems against
-the double burden of communicable and non-communicable diseases; and identifying, reaching and
-engaging the urban poor. Projects follow a demand-led, five-phase implementation-research cycle —
-from participatory needs assessment to effectiveness and cost-effectiveness evaluation — with a
-cross-cutting emphasis on research uptake, capacity building, and gender, intersectionality and
-equity.
+International consortium on equitable urban health systems across four countries  
+(Bangladesh, Ghana, Nepal, Nigeria). Implementation research on linking care providers,  
+cross-sector determinants of health, the double burden of communicable and non-communicable  
+disease, and reaching the urban poor.
 
 ---
 
 ## INCT IATS-CARE — Institute for Assessment and Translation in Health
 **CNPq · INCT (2026–present)**  
-Institute for Assessment and Translation in Health for high-relevance chronic and neglected
-diseases. It develops integrated strategies to improve the management of prevalent diseases and
-their risk factors through the production and translation of scientific evidence into real-world
-practice and policy. Work spans five axes: epidemiology and burden of disease and its
-determinants; digital health and artificial intelligence; implementation science; health
-technology, value and economics assessment for decision-making; and knowledge translation to
-multiple audiences. A continuation of the consolidated IATS INCT ([iats.com.br](https://www.iats.com.br)),
-gathering 115 researchers across 6 Brazilian and 2 international institutions.
+National Institute of Science and Technology on assessment and knowledge translation for  
+chronic and neglected diseases. Integrates epidemiology and burden of disease, digital health  
+and AI, implementation science, and health-technology and economic evaluation, translating  
+evidence into policy and practice ([iats.com.br](https://www.iats.com.br)).
 
 ---
 
