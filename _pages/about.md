@@ -26,7 +26,7 @@ I have **published articles in scientific journals** and **presented research at
 
 ## Sobre mim
 
-Sou **doutorando em Economia pela Universidade Federal de Pernambuco (PIMES/UFPE)** e **bolsista CNPq DTI-B**. Possuo **mestrado em Economia pela UFRN** e **graduação pela UFCG**.
+Sou **doutorando em Economia pela Universidade Federal de Pernambuco (PIMES/UFPE)** e **bolsista CNPq DTI-B**.I recently completed a six-month visiting research period (sandwich PhD) at the University of York. Possuo **mestrado em Economia pela UFRN** e **graduação pela UFCG**.
 
 Tenho experiência com **análise de dados, georreferenciamento, bases administrativas, avaliação de impacto e métodos econométricos aplicados**. Atuei também como **monitor e estagiário docente** nas áreas de **Econometria e Economia Regional**.
 
