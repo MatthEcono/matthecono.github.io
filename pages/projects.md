@@ -6,8 +6,23 @@ permalink: /projects/
 
 # Research Projects
 
+## Socio-environmental determinants of Chikungunya chronification  
+**UFPE (2022–present)**  
+Analysis of long-term Chikungunya symptoms and their effects on labor market outcomes.  
+Methods include georeferenced longitudinal microdata (REPLICK, CADUNICO, RAIS),  
+estimating impacts on absenteeism, job exit, and vulnerability.
+
+---
+
+## Multilateral Cost of Living Index 
+**CNPQ (2023–present)**  
+Development of a multilateral price index to measure regional inequalities in  
+cost-of-living, poverty, and real income dynamics across Brazil (Universal Grant).
+
+---
+
 ## CHORUS — Community-led Responsive and Effective Urban Health Systems
-**FCDO/DFID · Research Programme Consortium (£7.9M, 6 years)**  
+**FCDO/DFID (2025–2026)**  
 International consortium on equitable urban health systems, working in two cities across four
 partner countries (Bangladesh, Ghana, Nepal, Nigeria). It is organised around four pillars:
 linking private, NGO and government providers; building cross-sector collaboration on the wider
@@ -21,7 +36,7 @@ equity.
 ---
 
 ## INCT IATS-CARE — Institute for Assessment and Translation in Health
-**CNPq · National Institute of Science and Technology (INCT), ongoing**  
+**CNPq · INCT (2026–present)**  
 Institute for Assessment and Translation in Health for high-relevance chronic and neglected
 diseases. It develops integrated strategies to improve the management of prevalent diseases and
 their risk factors through the production and translation of scientific evidence into real-world
@@ -30,21 +45,6 @@ determinants; digital health and artificial intelligence; implementation science
 technology, value and economics assessment for decision-making; and knowledge translation to
 multiple audiences. A continuation of the consolidated IATS INCT ([iats.com.br](https://www.iats.com.br)),
 gathering 115 researchers across 6 Brazilian and 2 international institutions.
-
----
-
-## Multilateral Cost of Living Index 
-**CNPQ (2023–present)**  
-Development of a multilateral price index to measure regional inequalities in  
-cost-of-living, poverty, and real income dynamics across Brazil (Universal Grant).
-
----
-
-## Socio-environmental determinants of Chikungunya chronification  
-**UFPE (2022–present)**  
-Analysis of long-term Chikungunya symptoms and their effects on labor market outcomes.  
-Methods include georeferenced longitudinal microdata (REPLICK, CADUNICO, RAIS),  
-estimating impacts on absenteeism, job exit, and vulnerability.
 
 ---
 
