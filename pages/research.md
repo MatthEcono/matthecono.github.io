@@ -16,17 +16,17 @@ permalink: /research/
 2. **SILVA, M. R.; TROVÃO, C. J. B. M.; SOUZA, D. M.**  
    *Perfil socioeconômico do trabalhador agrícola no Brasil: uma análise regional no período de 2011 e 2015.*  
    **Revista da ABET**, v. 20, p. 456–476, 2021.  
-   [Acesse o artigo](https://periodicos.ufpb.br/index.php/abet/article/view/48553)
+   [https://doi.org/10.61999/abet.1676-4439.2021v20n2.48553](https://doi.org/10.61999/abet.1676-4439.2021v20n2.48553)
 
 3. **SOUZA, D. M.; TROVÃO, C. J. B. M.; SILVA, M. R.; MELO, J. W. F.**  
    *Caracterização histórica do mercado de trabalho no Brasil: da consolidação à reforma trabalhista.*  
    **Revista de Desenvolvimento Econômico**, v. 2, p. 102–134, 2021.  
-   [Acesse o artigo](https://revistas.unifacs.br/index.php/rde/article/view/7089)
+   [https://doi.org/10.36810/rde.v2i49.7089](https://doi.org/10.36810/rde.v2i49.7089)
 
 4. **SILVA, M. R.; SCHIMIDT, R.; SOUZA, D. M.; BEZERRA, F. K. T.**  
    *Exportações, inserção comercial e especialização produtiva: uma análise para os produtos primários brasileiros entre 2001 e 2016.*  
    **Estudo & Debate**, v. 27, p. 46–67, 2020.  
-   [Acesse o artigo](https://www.univates.br/revistas/index.php/estudoedebate/article/view/2487)
+   [https://doi.org/10.22410/issn.1983-036X.v27i3a2020.2487](https://doi.org/10.22410/issn.1983-036X.v27i3a2020.2487)
 
 5. **SOUZA, D. M.; TROVÃO, C. J. B. M.; SILVA, M. R.; SANTOS, J. O.**  
    *Informalidade no mercado de trabalho: abordagens conceituais e evolução histórica.*  
