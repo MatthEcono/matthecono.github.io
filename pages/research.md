@@ -8,25 +8,35 @@ permalink: /research/
 
 ## 📝 Articles in Peer-Reviewed Journals
 
-1. **SILVA, M. R.; TROVÃO, C. J. B. M.; SOUZA, D. M.**  
+1. **GADEKA, D. D.; DAWKINS, B.; TEIXEIRA DE SIQUEIRA FILHA, N.; CHOWDHURY, A. H.; BHATTARAI, A.; MBACHU, C.; SAIFY, M. B.; OKUDZETO, H.; RODRIGUES DA SILVA, M.; BARAL, S. C.; QUAYYUM, Z.; ARYEETEY, G. C.; HUQUE, R.; ONWUJEKWE, O.; EBENSO, B.; ELSEY, H.; AGYEPONG, I. A.**  
+   *Exploring the roles of informal healthcare providers in urban settings to improve access and quality of care for the urban poor: experience from Bangladesh, Ghana, Nepal and Nigeria.*  
+   **Health Policy and Planning**, czag087, 2026. Advance online publication.  
+   [https://doi.org/10.1093/heapol/czag087](https://doi.org/10.1093/heapol/czag087)
+
+2. **SILVA, M. R.; TROVÃO, C. J. B. M.; SOUZA, D. M.**  
    *Perfil socioeconômico do trabalhador agrícola no Brasil: uma análise regional no período de 2011 e 2015.*  
-   **Revista da ABET**, v. 20, p. 456–476, 2021.
+   **Revista da ABET**, v. 20, p. 456–476, 2021.  
+   [Acesse o artigo](https://periodicos.ufpb.br/index.php/abet/article/view/48553)
 
-2. **SOUZA, D. M.; TROVÃO, C. J. B. M.; SILVA, M. R.; MELO, J. W. F.**  
+3. **SOUZA, D. M.; TROVÃO, C. J. B. M.; SILVA, M. R.; MELO, J. W. F.**  
    *Caracterização histórica do mercado de trabalho no Brasil: da consolidação à reforma trabalhista.*  
-   **Revista de Desenvolvimento Econômico**, v. 2, p. 102–134, 2021.
+   **Revista de Desenvolvimento Econômico**, v. 2, p. 102–134, 2021.  
+   [Acesse o artigo](https://revistas.unifacs.br/index.php/rde/article/view/7089)
 
-3. **SILVA, M. R.; SCHIMIDT, R.; SOUZA, D. M.; BEZERRA, F. K. T.**  
+4. **SILVA, M. R.; SCHIMIDT, R.; SOUZA, D. M.; BEZERRA, F. K. T.**  
    *Exportações, inserção comercial e especialização produtiva: uma análise para os produtos primários brasileiros entre 2001 e 2016.*  
-   **Estudo & Debate**, v. 27, p. 46–67, 2020.
+   **Estudo & Debate**, v. 27, p. 46–67, 2020.  
+   [Acesse o artigo](https://www.univates.br/revistas/index.php/estudoedebate/article/view/2487)
 
-4. **SOUZA, D. M.; TROVÃO, C. J. B. M.; SILVA, M. R.; SANTOS, J. O.**  
+5. **SOUZA, D. M.; TROVÃO, C. J. B. M.; SILVA, M. R.; SANTOS, J. O.**  
    *Informalidade no mercado de trabalho: abordagens conceituais e evolução histórica.*  
-   **Pesquisa & Debate**, v. 32, p. 101–128, 2020.
+   **Pesquisa & Debate**, v. 32, p. 101–128, 2020.  
+   [Acesse o artigo](https://revistas.pucsp.br/index.php/rpe/article/view/48445)
 
-5. **SOUZA, D. M.; TROVÃO, C. J. B. M.; SILVA, M. R.; MELO, J. W. F.**  
+6. **SOUZA, D. M.; TROVÃO, C. J. B. M.; SILVA, M. R.; MELO, J. W. F.**  
    *Informalidade no Brasil: aspectos socioeconômicos dos trabalhadores informais sob a ótica regional.*  
-   **INTERFACE**, v. 15, p. 142–165, 2019.
+   **INTERFACE**, v. 15, p. 142–165, 2019.  
+   [Acesse o artigo](https://ojs.ccsa.ufrn.br/index.php/interface/article/view/1092)
 
 
 ---
