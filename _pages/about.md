@@ -11,7 +11,7 @@ I am a PhD candidate in Economics at the **Federal University of Pernambuco (PIM
 
 I have experience with **data analysis, georeferencing, administrative microdata, impact evaluation, and applied econometric methods**. I have also worked as a **teaching assistant and monitor in Econometrics and Regional Economics**.
 
-I have **published articles in scientific journals** and **presented research at major national conferences in Brazil**, such as **ANPEC and SOBER**.
+I have **published articles in scientific journals** and **presented research at major national and international conferences**, such as **ANPEC, SOBER and the World One Health Congress (WOHC 2026, Lisbon)**.
 
 **Research Interests**  
 - Health Economics  
@@ -30,7 +30,7 @@ Sou **doutorando em Economia pela Universidade Federal de Pernambuco (PIMES/UFPE
 
 Tenho experiência com **análise de dados, georreferenciamento, bases administrativas, avaliação de impacto e métodos econométricos aplicados**. Atuei também como **monitor e estagiário docente** nas áreas de **Econometria e Economia Regional**.
 
-Possuo **artigos publicados em periódicos científicos** e **trabalhos apresentados em congressos nacionais**, como a **ANPEC e a SOBER**.
+Possuo **artigos publicados em periódicos científicos** e **trabalhos apresentados em congressos nacionais e internacionais**, como a **ANPEC, a SOBER e o World One Health Congress (WOHC 2026, Lisboa)**.
 
 📌 **Áreas de interesse:** Economia da Saúde | Avaliação de Políticas Públicas | Econometria Espacial | Mercado de Trabalho  
 📍 **Atualmente em:** Recife, Brasil  
