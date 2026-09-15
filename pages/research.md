@@ -87,12 +87,16 @@ permalink: /research/
 
 ---
 
-# 🌍 Conference Presentations (Abstracts)
+# 🌍 Conference Presentations
+
+## 🎙️ Oral Presentations
+
+1. **SILVA, M. R.; MENEZES, T. A.; FERREIRA, R. C. S.; MARTELLI, C.; SIQUEIRA FILHA, N. T.**  
+   *Compound heat-drought events as datable early-warning signals for arbovirus outbreaks: causal evidence from Northeast Brazil.*  
+   **9th World One Health Congress (WOHC 2026)**, Lisbon, Portugal, 4–7 September 2026. Oral presentation, session SCS23 LB — Late Breakers: novel and outstanding discoveries (abstract ID 2669).
+
+## 🖼️ Posters
 
 1. **SILVA, M. R.; MENEZES, T. A.; MARTELLI, C.; SIQUEIRA FILHA, N. T.**  
    *Drought Incidence, Humidity Dynamics, and Chikungunya in Brazilian Municipalities.*  
    **9th World One Health Congress (WOHC 2026)**, Lisbon, Portugal, 4–7 September 2026. Poster presentation, topic "Climate change, Environment & Ecosystems Health" (abstract ID 1913).
-
-2. **SILVA, M. R.; MENEZES, T. A.; FERREIRA, R. C. S.; MARTELLI, C.; SIQUEIRA FILHA, N. T.**  
-   *Compound heat-drought events as datable early-warning signals for arbovirus outbreaks: causal evidence from Northeast Brazil.*  
-   **9th World One Health Congress (WOHC 2026)**, Lisbon, Portugal, 4–7 September 2026. Oral presentation, session SCS23 LB — Late Breakers: novel and outstanding discoveries (abstract ID 2669).
