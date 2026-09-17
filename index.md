@@ -7,7 +7,7 @@ permalink: /
 
 Welcome!  
 
-I am **Mattheus Rodrigues da Silva**, a **PhD candidate in Economics at the Federal University of Pernambuco (UFPE)** and **CNPq DTI-B fellow**.
+I am **Mattheus Rodrigues da Silva**, an economist with a **PhD in Economics from the Federal University of Pernambuco (UFPE)** and a **CNPq DTI-B fellow**.
 
 My research focuses on:
 

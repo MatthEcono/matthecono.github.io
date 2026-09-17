@@ -8,16 +8,17 @@ permalink: /cv/
 
 Economist with experience in **Health Economics**, **Spatial Econometrics**,  
 **Regional Economics**, **Labor**, and **Education**.  
-PhD Researcher at **UFPE (PIMES)** with a doctoral exchange at the **University of York**.
+PhD in Economics from **UFPE (PIMES)**, with a doctoral exchange at the **University of York**.
 
 ---
 
 ## 🎓 Academic Background
 
-### **PhD in Economics – UFPE (2022–ongoing)**  
+### **PhD in Economics – UFPE (2022–2026)**  
 *Sandwich period at the University of York*  
-**Thesis:** *Essays in heath economics*  
-**Supervisors:** Tatiane Menezes; Helen Elsey (York)
+**Thesis:** *Choques climáticos e serviços de saneamento na incidência de dengue, chikungunya e zika* (Climate shocks and sanitation services in the incidence of dengue, chikungunya and Zika)  
+**Supervisors:** Tatiane Almeida de Menezes; Helen Elsey (York)  
+**Defended:** September 2026
 
 ### **MSc in Economics – UFRN (2018–2020)**  
 **Dissertation:** Determinants of Microcephaly in the Northeast (Econometric-Spatial Analysis)  
